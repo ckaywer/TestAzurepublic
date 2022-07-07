@@ -1,0 +1,85 @@
+li{
+    list-style-type: none;
+}
+
+.guide{
+    background-color:#444444;
+    width: 100%;
+    height: 36.98px;
+    font-size: 14px;
+}
+
+.horozantalSet{
+    float: left;
+    padding: 0 4px;
+    line-height: 37px;
+}
+
+.right_set{
+    float: right;
+}
+.Left_set{
+    float: left;
+}
+.tableCenter{
+    vertical-align: middle;
+    padding: 15px;
+}
+.login{
+    width: 1200px;
+    height: 81.96px;
+    font-size: 14px;
+    padding: 10 0 0px;
+}
+.LoginBtmSet{
+    width: 75px;
+    height: 23px;
+    margin: 0 3px;
+}
+.textnoDecoration{
+    text-decoration: none;
+    color: black;
+}
+
+.div_nav{
+    background-color: #1b86ca;
+    width: 1200px;
+    height: 58.99px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.mouseact:hover{
+    background-color: blue;
+    color: #ffa500;
+}
+.nav_center{
+    padding: 0px 30px 0px 30px;
+    line-height: 58.99px;
+}
+.brimg{
+    background-image: url("../img/kj_icon.png");
+    background-repeat: no-repeat;
+    background-position-x: 80%;
+    background-position-y: center;
+    padding: 0px 60px 0px 0px;
+}
+
+.frameset{
+    width: 235px;
+    height: 58.76px;
+    margin-top: 14px;
+    border-right: 1px dotted #444444;
+}
+.frameset:last-child {
+    border-right: none;
+}
+.paddingset{
+    padding: 0px 0px 0px 12px;
+}
+.positionset{
+    width: 45px;
+    height: 30px;
+    text-align: center;
+    font-size: 16px;
+    padding: 0px 3px 0px 5px;
+}
